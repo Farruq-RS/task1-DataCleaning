@@ -18,6 +18,8 @@ To clean and preprocess the Titanic dataset to make it ready for machine learnin
 
 ## Dataset Source
 - Titanic Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+- Original Dataset: Titanic-Dataset.csv
+- Cleaned Dataset: Titanic-Dataset-cleaned.csv
 
 ## Fixes Applied
 - Fixed chained assignment warning in Pandas by using direct assignment
